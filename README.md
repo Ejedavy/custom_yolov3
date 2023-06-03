@@ -5,7 +5,7 @@ A quite minimal implementation of YOLOv3 in PyTorch spanning only around 800 lin
 
 ### Clone and install requirements
 ```bash
-$ git clone https://github.com/aladdinpersson/Machine-Learning-Collection
+$ git clone https://github.com/Ejedavy/custom_yolov3.git
 $ cd ML/Pytorch/object_detection/YOLOv3/
 $ pip install requirements.txt
 ```
